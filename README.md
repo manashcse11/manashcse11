@@ -31,6 +31,15 @@ Here are some ideas to get you started:
 - :man_technologist: Experienced in `PHP`, `Laravel`, `Wordpress`, `MySQL`, `JavaScript`, `ReactJS`, `Vue.js`, `AWS S3`, `AWS Lambda & API gateway` etc.
 - 🌱 Learning `TDD`, `Software architecture`, `Clean & maintainable code`
 - 💬 Ask me about `PHP`, `Laravel`, `Wordpress`, `MySQL`, `JavaScript`, `ReactJS`, `Vue.js` and `API development`.
+
+#### Few stats
+<p float="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manashcse11&show_icons=true&&count_private=true&include_all_commits=true" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manashcse11&show_icons=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manashcse11&show_icons=true&&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://leetcard.jacoblin.cool/manashcse11?theme=light&font=Karma&ext=contest"/>
+</p>
+
 #### Organization I have worked so far
 <p left="center">
   <a href="https://www.cefalo.com/">
@@ -42,13 +51,6 @@ Here are some ideas to get you started:
   <a href="https://www.arena.com.bd/">
     <img src="https://www.arena.com.bd/wp-content/uploads/2019/03/logo.png" height=30> 
   </a>
-</p>
-#### Few stats
-<p float="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manashcse11&show_icons=true&&count_private=true&include_all_commits=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manashcse11&show_icons=true&layout=compact&langs_count=8"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manashcse11&show_icons=true&&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://leetcard.jacoblin.cool/manashcse11?theme=light&font=Karma&ext=contest"/>
 </p>
 
 #### Find me at
