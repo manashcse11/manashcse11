@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🌱 Learning `TDD`, `Software architecture`, `Clean & maintainable code`
 - 💬 Ask me about `PHP`, `Laravel`, `Wordpress`, `MySQL`, `JavaScript`, `ReactJS`, `Vue.js` and `API development`.
 
-### Few stats
+#### Few stats
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manashcse11&show_icons=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manashcse11&show_icons=true&layout=compact&langs_count=8"/>
@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manashcse11/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/manashcse)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/manash.pstu)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://manashcse.medium.com/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/manashcse11)
