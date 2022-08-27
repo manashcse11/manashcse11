@@ -41,12 +41,12 @@ Here are some ideas to get you started:
 </p>
 
 #### Organization I have worked so far
-<p left="center">
+<p>
   <a href="https://www.cefalo.com/">
-    <img src="https://cdn-images-1.medium.com/max/632/1*eEvUFb20k16ileJnweCpaA@2x.jpeg" height=50>
+    <img src="https://cdn-images-1.medium.com/max/632/1*eEvUFb20k16ileJnweCpaA@2x.jpeg" height=40>
   </a> 
   <a href="https://www.itconquest.com/">
-    <img src="https://www.itconquest.com/wp-content/uploads/2022/03/it-conquest-logo.png" height=50>
+    <img src="https://www.itconquest.com/wp-content/uploads/2022/03/it-conquest-logo.png" height=40>
   </a>
   <a href="https://www.arena.com.bd/">
     <img src="https://www.arena.com.bd/wp-content/uploads/2019/03/logo.png" height=30> 
@@ -57,5 +57,5 @@ Here are some ideas to get you started:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manashcse11/) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/manashcse)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/manash.pstu)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://manashcse.medium.com/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/manashcse11)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://manashcse.medium.com/)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/manashcse11)
